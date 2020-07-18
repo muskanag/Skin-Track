@@ -7,6 +7,8 @@ Skin track is one of the major part of long term project ”Human Computer Inter
 - Processed the phase difference between the AC signals and thus, computed the 2D location of a touch by the fingertip.
 - A linear regression model to predict the real-time 2D position and used it to control the PowerPoint presentations was trained.
 
+Detailed Documentation : https://github.com/muskanag/Skin-Track/blob/master/SKIN-TRACK.pdf  
+
 ---
 - A PCB for the wearable device was designed .
 
