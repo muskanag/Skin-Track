@@ -1,5 +1,7 @@
 # Skin-Track
 
+Skin track is one of the major part of long term project ”Human Computer Interface” of the Electronics Club IIT Kanpur. It is basically a wearable device that enables continuous touch tracking on the skin by movements of fingers. Basic principle of the project is that our body acts as a good conductor for AC currents and these signals develop a phase difference between them on travelling different paths. We have used a ring to generate AC signals and a band as a carrier with electrodes, which processes and computes the phase differences between AC signals and sends the data to our desktop and helps us in resolving the 2D location of touch by the finger tip.
+
 - A wearable device that enables continuous touch tracking on the skin by movements of fingers was fabricated.
 - A wearable ring that is used to generate the AC signals and a band as a carrier with electrodes was designed. 
 - Processed the phase difference between the AC signals and thus, computed the 2D location of a touch by the fingertip.
